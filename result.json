@@ -1,0 +1,4414 @@
+{
+ "name": "UAB-VC/PSIV",
+ "type": "private_channel",
+ "id": 1502367727,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2022-02-01T10:28:52",
+   "actor": "UAB-VC/PSIV",
+   "actor_id": "channel1502367727",
+   "action": "create_channel",
+   "title": "UAB-VC/PSIV",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2022-02-14T06:58:09",
+   "edited": "2022-02-14T07:45:28",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nEmpezamos con este experimento. \n\nLa idea es repasar un poco los conceptos de la asignatura de manera relajada. \n\nEs totalmente anónimo, no sirve para mejorar notas, no se avanza materia. Podéis usarlo cuando queráis o simplemente no usarlo. \n\nLas preguntas de este canal se han obtenido en gran parte de los exámenes de años anteriores. \n\nIndividualmente os puede servir para adivinar el nivel que lleváis, y colectivamente para ver dónde están las debilidades. \n\nIntentaré dar una realimentación a las respuestas que complete las posibles lagunas que hayan quedado. \n\nSaludos y gracias por participar."
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2022-02-14T06:59:33",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Dónde se genera la imagen de los puntos del infinito para un objetivo de focal F:",
+    "closed": false,
+    "total_voters": 50,
+    "answers": [
+     {
+      "text": "en el plano focal imagen",
+      "voters": 31,
+      "chosen": true
+     },
+     {
+      "text": "en el centro del objetivo",
+      "voters": 13,
+      "chosen": false
+     },
+     {
+      "text": "en menos infinito",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "depende de la apertura",
+      "voters": 4,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2022-02-14T07:00:10",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La zona del ojo donde encontramos una mayor concentración de conos es:",
+    "closed": false,
+    "total_voters": 52,
+    "answers": [
+     {
+      "text": "la retina",
+      "voters": 18,
+      "chosen": false
+     },
+     {
+      "text": "el nervio óptico",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "la fóvea",
+      "voters": 26,
+      "chosen": true
+     },
+     {
+      "text": "el punto ciego",
+      "voters": 2,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2022-02-14T07:00:53",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos colores no aparecería en la descomposición de la luz blanca (arco iris), asumiendo colores saturados:",
+    "closed": false,
+    "total_voters": 52,
+    "answers": [
+     {
+      "text": "cian",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "magenta",
+      "voters": 18,
+      "chosen": false
+     },
+     {
+      "text": "amarillo",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "naranja",
+      "voters": 24,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2022-02-14T07:01:34",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El hijo de la Inés es una canción de:",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "Extremoduro",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "La Raíz",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "Marea",
+      "voters": 25,
+      "chosen": true
+     },
+     {
+      "text": "Txarango",
+      "voters": 5,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2022-02-15T07:16:23",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": [
+    "No os preocupéis, no puntúa. Podéis intentarlas a voleo, pero la idea es que llegando al final del curso las acertéis casi todas.\n\nLa respuesta correcta a la primera pregunta anterior es el plano focal imagen, que es dónde colocaremos el sensor para ver los objetos del infinito (muy lejanos).\n\nLa fóvea es el área de la retina donde se enfocan los rayos luminosos y se encuentra especialmente capacitada para la visión del color (wikipedia: ",
+    {
+     "type": "link",
+     "text": "https://es.wikipedia.org/wiki/F%C3%B3vea"
+    },
+    ").\n\nEl color que no aparece en el arco iris es el Magenta (que es la mezcla de rojo y azul que son justo los extremos de este). El diagrama cromático, que es esa figura con forma de media suela ( ",
+    {
+     "type": "link",
+     "text": "https://en.wikipedia.org/wiki/File:CIE1931xy_blank.svg"
+    },
+    " ), tiene una forma curva en la parte superior que recibe el nombre de \"locus\" y se corresponde con los colores de arco iris, y se cierra mediante una recta que junta los extremos (rojo y azul (violeta si somos rigurosos)) que recibe el nombre de línea de púrpuras (púrpuras = lilas = magentas...).\n\nY si alguien ha fallado la cuarta, tiene que escucharla.\n\nVamos con las de hoy"
+   ]
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2022-02-15T07:17:14",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué tecnologías de sensor se caracterizan en mayor medida por (a) Rolling shutter, (b) Alta velocidad",
+    "closed": false,
+    "total_voters": 51,
+    "answers": [
+     {
+      "text": "(a) CCD, (b) CCD",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "(a) CCD, (b) CMOS",
+      "voters": 22,
+      "chosen": true
+     },
+     {
+      "text": "(a) CMOS, (b) CMOS",
+      "voters": 15,
+      "chosen": false
+     },
+     {
+      "text": "(a) CMOS, (b) CCD",
+      "voters": 11,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2022-02-15T07:17:46",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Para una lente convergente de focal F, a qué distancia se genera la imagen de un punto situado a distancia 2F",
+    "closed": false,
+    "total_voters": 50,
+    "answers": [
+     {
+      "text": "2F",
+      "voters": 22,
+      "chosen": true
+     },
+     {
+      "text": "F",
+      "voters": 16,
+      "chosen": false
+     },
+     {
+      "text": "∞",
+      "voters": 8,
+      "chosen": false
+     },
+     {
+      "text": "0",
+      "voters": 4,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2022-02-15T07:18:22",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas afirmaciones es verdadera sobre la corriente oscura en un sensor.",
+    "closed": false,
+    "total_voters": 49,
+    "answers": [
+     {
+      "text": "En presencia de luz desaparece",
+      "voters": 9,
+      "chosen": true
+     },
+     {
+      "text": "Genera un patrón de ruido impulsional",
+      "voters": 12,
+      "chosen": false
+     },
+     {
+      "text": "Se tapan unos píxeles en los bordes del sensor para cuantificarla",
+      "voters": 19,
+      "chosen": false
+     },
+     {
+      "text": "Si enfriamos el sensor subimos su contribución en la señal",
+      "voters": 9,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2022-02-15T07:18:54",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Quién dibujó Dr. SLUMP (Arale)",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "Katsuhiro Otomo",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "Inio Asano",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "Eiichiro Oda",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "Akira Toriyama",
+      "voters": 26,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2022-02-16T07:03:08",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Va mejorando. Vamos por partes\n\nEl Rolling shutter es un tipo de shutter que usan muchos sensores CMOS por simplicidad y coste, aunque hay algunos CMOS que son Frame shutters, como los CCD. El tipo de exposición que barre una ventana (un conjunto de líneas horizontales contiguas) en el tiempo, produciendo en muchos casos efectos no deseados en imágenes en movimiento, se da básicamente en la tecnología CMOS.\nEl rolling shutter permite abaratar costes, para imágenes estáticas no es problema, y se puede sacar una poca información de la velocidad local de los objetos, ... No siempre es un problema.\nComo ventaja de los CMOS están todas las virguerías asociadas a su flexibilidad, podemos poner electrónica en cada píxel: alta velocidad, HDR (high dynamic range), ROIs (region of interest), ...\n\nPara saber dónde se genera la imagen de una lente simple se usa la fórmula de Gauss (1/F = 1/u + 1/v).\nPara el caso que se pregunta, un punto situado a 2F (u = 2F), solo queda encontrar v.\n1/F = 1/(2F) + 1/v. Así que v tiene que ser 2F.\n\nY la corriente oscura no es debida a la llegada de luz al sensor, sino que se produce por estar a una cierta temperatura (cuanta más temperatura más corriente oscura). Para poder cuantificarla y poder restar ese valor se tapan algunos píxeles.\n\nLa de los mangakas muy bien. Todos los que salen en la pregunta y no dibujaron Dr. Slump también merecen ser admirados, esos y miles de dibujantes más. \n\nVamos con las de hoy."
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2022-02-16T07:04:02",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas características definen a los bastones del ojo humano:",
+    "closed": false,
+    "total_voters": 48,
+    "answers": [
+     {
+      "text": "sensibles a alta intensidad, no al color, situados principalmente en la fóvea",
+      "voters": 14,
+      "chosen": true
+     },
+     {
+      "text": "sensibles a baja intensidad, al color, situados principalmente fuera de la fóvea",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "sensibles a alta intensidad, al color, situados principalmente en la fóvea",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "sensibles a baja intensidad, no al color, situados principalmente fuera de la fóvea",
+      "voters": 20,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2022-02-16T07:04:40",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué decisión tomaremos al elegir una cámara (sensor) para resolver un problema con objetos muy rápidos en un entorno con poca luz.",
+    "closed": false,
+    "total_voters": 48,
+    "answers": [
+     {
+      "text": "Frame shutter con píxeles grandes",
+      "voters": 16,
+      "chosen": false
+     },
+     {
+      "text": "Frame shutter con píxeles pequeños",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "Rolling shutter con píxeles grandes",
+      "voters": 13,
+      "chosen": true
+     },
+     {
+      "text": "Rolling shutter con píxeles pequeños",
+      "voters": 8,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2022-02-16T07:05:26",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Sobre la sensibilidad de los sensores de Silicio (Si) respecto a la del sistema visual humano (SVH).",
+    "closed": false,
+    "total_voters": 47,
+    "answers": [
+     {
+      "text": "Los sensores de Si cubren más rango sólo en el infrarrojo",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "Los sensores de Si cubren más rango sólo en el ultravioleta",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "Los sensores de Si cubren más rango espectral que el SVH",
+      "voters": 32,
+      "chosen": true
+     },
+     {
+      "text": "Los sensores de Si cubren menos rango espectral que el SVH",
+      "voters": 3,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2022-02-16T07:06:09",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Annie, campeón de LoL, qué objeto usa para luchar.",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "Setas",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "Osito de peluche",
+      "voters": 35,
+      "chosen": true
+     },
+     {
+      "text": "Bumerán",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "Baraja de cartas",
+      "voters": 6,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2022-02-17T07:09:13",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días. Va mejorando. No todas bien, pero poco a poco.\n\nLos bastones: solo hay un tipo, no tienen discriminación del color y están fuera de la fóvea a unos 6º (percepción periférica). Ver en condiciones de baja iluminación recibe el nombre de visión escotópica.\n\nUn sensor para objetos rápidos y en un entorno de poca luz ¿qué haremos?. Objetos rápidos -> frame shutter para evitar deformaciones por el movimiento. Poca luz -> necesitamos recoger todos los fotones que podamos y si la opción es píxel grande o píxel pequeño (acordaros del cubo y las gotas de agua), pues cubo-píxel grande.\n\nEl silicio nos gana en el rango de sensibilidad espectral, un poco de UV, todo el visible y llega dentro del NIR hasta los 1100 nm.\n\nY la de cultura general, bien, muy bien. \n\nVamos con las de hoy."
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2022-02-17T07:09:55",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuáles son los límites (aproximados) del espectro de luz visible:",
+    "closed": false,
+    "total_voters": 50,
+    "answers": [
+     {
+      "text": "de 400 nm a 700 nm",
+      "voters": 36,
+      "chosen": false
+     },
+     {
+      "text": "de 380 nm a 1100 nm",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "de 400 μm a 700 μm",
+      "voters": 9,
+      "chosen": true
+     },
+     {
+      "text": "de 380 μm a 1100 μm",
+      "voters": 2,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2022-02-17T07:10:48",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En una aplicación queremos seleccionar con un threshold aquellos puntos de la imagen que tengan colores muy puros. Qué espacio de color será el más adecuado:",
+    "closed": false,
+    "total_voters": 49,
+    "answers": [
+     {
+      "text": "RGB",
+      "voters": 26,
+      "chosen": false
+     },
+     {
+      "text": "CMY",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "YUV",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "HSV",
+      "voters": 14,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2022-02-17T07:11:25",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué secuencia está ordenada de menor a mayor energía:",
+    "closed": false,
+    "total_voters": 49,
+    "answers": [
+     {
+      "text": "Rayos γ, Ultravioleta, 500 nm, Radio",
+      "voters": 15,
+      "chosen": false
+     },
+     {
+      "text": "Rayos γ, Infrarrojo, 350 nm, Radio",
+      "voters": 10,
+      "chosen": true
+     },
+     {
+      "text": "Radio, 1.3 μm, Ultravioleta, Rayos γ",
+      "voters": 18,
+      "chosen": false
+     },
+     {
+      "text": "Radio, Ultravioleta, 700 nm, Rayos γ",
+      "voters": 6,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2022-02-17T07:12:12",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas películas no es obra de Hayao Miyazaki:",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "Nausicaä del Valle del Viento",
+      "voters": 20,
+      "chosen": true
+     },
+     {
+      "text": "Mi vecino Totoro",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "La tumba de las luciérnagas",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "El viaje de Chihiro",
+      "voters": 5,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2022-02-18T08:44:09",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días,\n\nLa del rango visible de los humanos, bien. Recordad las unidades de las cosas que vayáis asimilando, de 400 a 700 nanómetros. 1000 nanómetros son una micra o micrómetro, 1000 micras son un milímetro, 1000 milímetros un metro.\n \nLa pregunta sobre qué espacio de color usar para encontrar colores muy puros, pues la pureza de un color está relacionada con la saturación. Un color muy saturado es que tiene poco blanco, que es muy puro. Así que el mejor espacio será el HSV que tiene uno de los canales dedicado en exclusiva a la saturación (S) y por tanto con un simple threshold los podemos encontrar.\n \nLa de la energía de menor a mayor. Recordad que la energía tiene relación directa con la frecuencia (menor energía, menor frecuencia), e inversa con la longitud de onda (menor energía, mayor λ).\n\nLa de Miyazaki, mal. Nausicaä es de Miyazaki, la que no lo es, La tumba de las luciérnagas, que es de Takahata. Takahata y Miyazaki fundaron Studio Ghibli en 1985.\n\nLos fines de semana descansaremos, así que mañana y pasado no habrá preguntas.\n\nVamos con las de hoy."
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2022-02-18T08:45:07",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué distancia mínima de enfoque tenemos para un sistema de focal 8 mm si alejamos el sensor 1 mm de la posición en la que vemos los puntos del infinito bien enfocados.",
+    "closed": false,
+    "total_voters": 44,
+    "answers": [
+     {
+      "text": "9 mm",
+      "voters": 26,
+      "chosen": true
+     },
+     {
+      "text": "36 mm",
+      "voters": 10,
+      "chosen": false
+     },
+     {
+      "text": "72 mm",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "120 mm",
+      "voters": 1,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2022-02-18T08:45:59",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Podemos representar el color",
+    "closed": false,
+    "total_voters": 50,
+    "answers": [
+     {
+      "text": "con tres valores, pero si aumentamos este número la representación será más precisa",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "con tres valores, pero sólo si hacen referencia a longitudes de onda: roja, verde, azul",
+      "voters": 13,
+      "chosen": true
+     },
+     {
+      "text": "con tres valores linealmente dependientes",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "todas las anteriores son falsas",
+      "voters": 24,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2022-02-18T08:46:50",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos parámetros espectrales está ligado en mayor medida al parámetro “tono” que usaríamos para describir un color.",
+    "closed": false,
+    "total_voters": 51,
+    "answers": [
+     {
+      "text": "Luminancia",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "Longitud de onda dominante",
+      "voters": 26,
+      "chosen": true
+     },
+     {
+      "text": "Saturación",
+      "voters": 12,
+      "chosen": false
+     },
+     {
+      "text": "Pureza",
+      "voters": 2,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2022-02-18T08:47:31",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Koji Kabuto es uno de los protagonistas de (en caso de duda, preguntar a los mayores de la casa):",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "Oliver y Benji",
+      "voters": 8,
+      "chosen": false
+     },
+     {
+      "text": "Mazinger Z",
+      "voters": 30,
+      "chosen": true
+     },
+     {
+      "text": "Death Note",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "Heidi",
+      "voters": 1,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2022-02-21T07:12:09",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nCasi todas bien, la que ha ido mal es la de la distancia mínima de enfoque. En esta hay que usar la fórmula de Gauss. Si la focal es de 8 mm, recordad que también es la posición del sensor para enfocar el infinito. Así que si nos movemos 1 mm de esa posición estaremos a 9 mm (v = 9 mm). Usamos la fórmula: 1/f = 1/u + 1/v, y tenemos 1/8 = 1/u + 1/9, y obtenemos u = 72 mm.\n\nPara representar un color necesitamos 3 valores de un espacio de representación del color, el que sea, pero estos 3 valores no deben estar alineados (deben ser linealmente independientes) para poder referenciar cualquier otro punto de este espacio, así que todas son falsas.\n\nEl tono (hue) es el concepto que todos tenemos al referirnos a un color, y esta sensación proviene en gran medida de la longitud de onda que más energía lleva al ojo. \n \nKoji, Sayaka, Doctor Infierno, Barón Asler... Mazinger Z, bien, muy bien.\n \nVenga, las de hoy."
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2022-02-21T07:12:57",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas transformaciones no es una transformación puntual.",
+    "closed": false,
+    "total_voters": 51,
+    "answers": [
+     {
+      "text": "Ecualización logarítmica",
+      "voters": 10,
+      "chosen": false
+     },
+     {
+      "text": "Ecualización local",
+      "voters": 15,
+      "chosen": false
+     },
+     {
+      "text": "Ecualización",
+      "voters": 9,
+      "chosen": true
+     },
+     {
+      "text": "LUT (look-up table)",
+      "voters": 17,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2022-02-21T07:13:44",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuántos bins (elementos) tendrán los histogramas de una imagen binaria y una de 8 bits:",
+    "closed": false,
+    "total_voters": 52,
+    "answers": [
+     {
+      "text": "1, 8",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "2, 8",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "2, 256",
+      "voters": 29,
+      "chosen": true
+     },
+     {
+      "text": "1, 256",
+      "voters": 11,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2022-02-21T07:14:45",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas representaciones de los datos es una función creciente:",
+    "closed": false,
+    "total_voters": 51,
+    "answers": [
+     {
+      "text": "el histograma de la mayoría de las imágenes",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "una discretización de la función gaussiana",
+      "voters": 17,
+      "chosen": true
+     },
+     {
+      "text": "la LUT que permite hacer la ecualización de una imagen",
+      "voters": 23,
+      "chosen": false
+     },
+     {
+      "text": "la LUT que aplicaríamos para conseguir la imagen negativa",
+      "voters": 5,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2022-02-21T07:15:20",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cómo se llaman los amigos de Hannah Montana",
+    "closed": false,
+    "total_voters": 45,
+    "answers": [
+     {
+      "text": "Daisy y Kevin",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "Lilly y Oliver",
+      "voters": 34,
+      "chosen": true
+     },
+     {
+      "text": "Soraka y Darius",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "Robin y Ted",
+      "voters": 4,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2022-02-22T07:39:25",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nHa ido bastante bien. Unos pequeños comentarios.\n\nLa reina de las transformaciones puntuales es la LUT, con ella podemos hacer cualquier transformación puntual (threshold, negativo, contraste, ...).\n\nLa ecualización es una transformación puntual que monta una LUT a partir del histograma acumulado de la propia imagen.\n\nLa ecualización logarítmica modifica la LUT anterior (de la Ecualización) para que el resultado sea más claro/luminoso, pero no deja de ser una LUT.\n\nLa ecualización local, es una estrategia de ventana deslizante en la que para cada píxel se busca una solución distinta dependiendo de la vecindad, por tanto, no hay una única función de transferencia o LUT para toda la imagen. Esta opción estaría más cerca de un filtrado no lineal que de una transformación puntual pura. \n\nLos bins de un histograma son los elementos que tiene el vector que lo componen y por regla general (a no ser que pidamos otra cosa), tendremos tantos como niveles o valores tengamos representados. En una imagen binaria los posibles valores son 0/1 por tanto 2 bins, y en una de niveles de gris de 8 bits tendremos del 0 al 255 por tanto 256 bins. \n\nLa de Hannah Montana, bien, muy bien. Pero de estas no salen en el examen ;).\n\nVamos con las de hoy."
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2022-02-22T07:40:33",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de las representaciones de estos tipos de imágenes tiene más dimensiones:",
+    "closed": false,
+    "total_voters": 49,
+    "answers": [
+     {
+      "text": "imagen térmica",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "imagen color",
+      "voters": 15,
+      "chosen": false
+     },
+     {
+      "text": "imagen de una radiografía",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "imagen range (de profundidad)",
+      "voters": 19,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2022-02-22T07:41:10",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas transformaciones no es una transformación puntual.",
+    "closed": false,
+    "total_voters": 49,
+    "answers": [
+     {
+      "text": "Substracción de fondo",
+      "voters": 21,
+      "chosen": false
+     },
+     {
+      "text": "Maximizar el contraste",
+      "voters": 8,
+      "chosen": false
+     },
+     {
+      "text": "Ecualización",
+      "voters": 13,
+      "chosen": true
+     },
+     {
+      "text": "Threshold doble",
+      "voters": 7,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2022-02-22T07:43:00",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuántos terabytes aproximadamente se necesitan para almacenar en imágenes COLOR sin comprimir de 8 bits por canal, toda la superficie de la tierra (radio = 6371 km, sup. esfera = 4πr²) con resolución 10 m/píxel.",
+    "closed": false,
+    "total_voters": 45,
+    "answers": [
+     {
+      "text": "4.6 TB",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "14 TB",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "37 TB",
+      "voters": 14,
+      "chosen": false
+     },
+     {
+      "text": "112 TB",
+      "voters": 16,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2022-02-22T07:43:38",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas parejas no pertenece a una serie de animación.",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "Finn and Jake",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "Kernighan and Ritchie",
+      "voters": 21,
+      "chosen": true
+     },
+     {
+      "text": "Wirt and Greg",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "Katara and Sokka",
+      "voters": 6,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2022-02-23T06:33:31",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": [
+    "Buenos días.\n\nPoco a poco va mejorando. \n\nEsta no ha ido bien. Las dimensiones de una imagen térmica son 2 (filas y columnas), el color que muchas veces veis en ese tipo de imágenes es una paleta de color (pseudocolor) que ayuda a la interpretación, pero no añade una dimensión. Las radiografías también 2, suelen tener más de 8 bits para no perderse ningún detalle por falta de contraste. No confundir con otras modalidades de imagen médica: CT (TAC), MRI, ... que suelen ser en 3D y tienen un aspecto similar. La imagen range, a pesar de su nombre, es una imagen 2D simplemente que la información que lleva es de profundidad. Y finalmente, la de color, son datos de tres dimensiones, no por el rgb, esa es su tercera dimensión. Las dimensiones de una imagen en color son: filas, columnas, canales (o bandas).\n\nTodas las operaciones puntuales se pueden montar con una LUT, el valor del nivel de gris lo metemos en una función de transferencia y obtenemos un nuevo valor. Solo tenemos una imagen y solo cambiamos los valores de los píxeles con esa función-lut común. Con estas operaciones puntuales podemos maximizar el contraste de una imagen, ecualizar una imagen, o hacer un threshold simple o doble, y más cosas: negativos, logaritmos, exponenciales... Para hacer una substracción de fondo necesitamos 2 imágenes, a esto le hemos llamado operaciones aritméticas entre imágenes (no puntuales).\n\nEn la tercera, es color por tanto, x3 lo que me sale para un sólo canal. 3 B/pixel * 4*π*6371*6371 km² * 100² pixel/km² ",
+    {
+     "type": "bot_command",
+     "text": "/1024"
+    },
+    "(k)",
+    {
+     "type": "bot_command",
+     "text": "/1024"
+    },
+    "(M)",
+    {
+     "type": "bot_command",
+     "text": "/1024"
+    },
+    "(G)",
+    {
+     "type": "bot_command",
+     "text": "/1024"
+    },
+    "(T) = 13.9 TB.\n\nY finalmente, muy bien, habéis encontrado a los padres de \"El lenguaje de programación C\" (",
+    {
+     "type": "link",
+     "text": "https://es.wikipedia.org/wiki/El_lenguaje_de_programaci%C3%B3n_C"
+    },
+    "). \n\nLas de hoy."
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2022-02-23T06:34:04",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El histograma de una imagen lo podemos ver como:",
+    "closed": false,
+    "total_voters": 47,
+    "answers": [
+     {
+      "text": "la frecuencia de aparición de cada valor",
+      "voters": 10,
+      "chosen": true
+     },
+     {
+      "text": "la densidad de probabilidad de cada valor",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "un vector donde cada posición i indica el número de píxeles con valor i",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "todas la anteriores son equivalentes",
+      "voters": 33,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2022-02-23T06:35:02",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La ecualización, en una imagen discreta.",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "Siempre genera un histograma plano",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Persigue maximizar el contraste de manera lineal",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Se consigue calculando el histograma y aplicándolo como una lut",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Se consigue calculando el histograma acumulado y aplicándolo como una lut",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2022-02-23T06:35:41",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cómo podemos convertir los valores de color de una imagen RGB en valores independientes de dispositivo.",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "No se puede",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "Mediante una matriz establecida y fija que pasa de RGB a XYZ",
+      "voters": 15,
+      "chosen": false
+     },
+     {
+      "text": "Con una transformación no lineal establecida y fija que pasa de RGB a XYZ",
+      "voters": 16,
+      "chosen": true
+     },
+     {
+      "text": "Con un proceso de calibración del color",
+      "voters": 10,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2022-02-23T06:36:24",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La misión Apolo 11 consiguió llegar a la luna. Cuál de estos astronautas se quedó en el módulo de mando sin bajar a pisar la luna.",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "Armstrong",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "Collins",
+      "voters": 16,
+      "chosen": false
+     },
+     {
+      "text": "Aldrin",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "ninguno, bajaron los tres",
+      "voters": 12,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2022-02-24T07:13:50",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nMuy bien, va mejorando el porcentaje de acierto. Me alegro. Solo una no ha quedado clara.\n\nEn la del histograma, las tres primeras son diferentes maneras de decir que es un histograma, así que todas son ciertas.\n\nLa ecualización mejora el contraste, pero se adapta el contenido de la imagen, se consigue con el histograma acumulado.\n\nLos valores RGB de un color están ligados, en gran medida, al hardware que tenga detrás, cámara, pantalla... y también al tipo de iluminación que se tenga en la escena. Así que para poder hablar en términos absolutos de un determinado color de manera unívoca necesitaremos un espacio independiente de dispositivo: XYZ, Luv, Lab. Para poder pasar de uno dependiente a uno independiente tenemos que poner en correspondencia los dos espacios para unas condiciones concretas, y esto requiere calibrar.\n\nCollins, karma infinito. Bajad vosotros, yo os espero en el Columbia.\n\nVamos con las de hoy."
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2022-02-24T07:14:25",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas tripletas de conceptos o valores no definen un color:",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "longitud de onda dominante, pureza, luminancia",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "tono, saturación, luminosidad",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "difuso, especular, ambiente",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "R, G, B",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2022-02-24T07:15:07",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas imágenes tendría dos dimensiones:",
+    "closed": false,
+    "total_voters": 48,
+    "answers": [
+     {
+      "text": "imagen color",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "vídeo en blanco y negro (monocromo)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "vídeo en color",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "imagen range (de profundidades)",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2022-02-24T07:15:50",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos códigos representa una maximización del contraste",
+    "closed": false,
+    "total_voters": 47,
+    "answers": [
+     {
+      "text": "255*((max(im(:))-min(im(:)))/(im-min(im(:))));",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "255*((im-min(im(:)))/(max(im(:))-min(im(:))));",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "255*(im-min(im(:))));",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "255*((im-max(im(:)))./(im-min(im(:))));",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2022-02-24T07:16:29",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Albert Einstein ganó el premio Nobel de Física en 1921 por",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "la Teoría de la Relatividad General",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la Teoría de la Relatividad Especial",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "el Refrigerador de Einstein-Szilárd",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "el Efecto Fotoeléctrico",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2022-02-25T08:29:14",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nLas del temario más o menos bien, la de Einstein mal. Os comento algunas cosas.\n\nBien a la pregunta del color, \"difuso, especular y ambiente\" hacen referencia a los modelos de iluminación de las superficies y las escenas.\n\nUn vídeo monocromo tendría las dos dimensiones espaciales (filas, columnas o x, y) y la tercera que sería el tiempo. Las imágenes range a pesar de representar información de profundidad no implica una nueva dimensión, el valor de la profundidad es el que guardamos en el valor del píxel.\n\nMaximizar el contraste consiste en buscar los valores máximos y mínimos de una imagen y \"estirar\" todo para que cubran el rango [0,255]. Pensad en esta parte (im - min)/(max - min). Esta expresión cuando estamos en un valor para im mínimo se cancela el numerador y tenemos 0. Y cuando tenemos un valor de imagen máximo, numerador y denominador son iguales y tendremos 1. Así que si lo multiplicamos por 255 ya tenemos el maximizador de contraste.\n\nEinstein es conocido por muchas cosas, pero no ganó el Nobel por la Teoría de la Relatividad, ni por la General ni por la Restringida (Especial). Por la nevera consiguieron 750$ cuando vendieron la patente. Y el Nobel lo consiguió por el efecto fotoeléctrico: la energía luminosa viene empaquetada en cuantos de luz (más tarde llamados fotones). \n\nVamos con las de hoy y pasad un buen finde."
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2022-02-25T08:30:26",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Hablamos de imágenes cuando la información almacenada",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "es discreta",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "es bidimensional",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "elemento mínimo (píxel) se describe con un byte",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "hace referencia a intensidad luminosa",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2022-02-25T08:31:33",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas frases es incorrecta.",
+    "closed": false,
+    "total_voters": 45,
+    "answers": [
+     {
+      "text": "Una secuencia de vídeo en color la podríamos considerar como una imagen o señal de 4 dimensiones.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "La imagen monocromática se caracteriza por almacenarse con un bit, dos valores: blanco y negro.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "El resultado de un TAC (tomografía axial computarizada) se almacena en tres dimensiones.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Una imagen range nos da información de profundidad pero se almacena en dos dimensiones.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2022-02-25T08:32:45",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál es la principal razón para hacer sensores de silicio para cámaras que van a trabajar en el visible.",
+    "closed": false,
+    "total_voters": 48,
+    "answers": [
+     {
+      "text": "El silicio es un material abundante en la tierra.",
+      "voters": 3,
+      "chosen": true
+     },
+     {
+      "text": "El silicio tiene un gap de 1.1eV lo que le confiere una sensibilidad adecuada para este fin.",
+      "voters": 32,
+      "chosen": false
+     },
+     {
+      "text": "El silicio es el material con el que se fabrica la mayor parte de la electrónica que nos rodea.",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "Se han desarrollado procesos de fabricación muy baratos para la electrónica basada en el silicio.",
+      "voters": 11,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2022-02-25T08:33:36",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "A qué altura se sitúa normalmente el aro de una canasta de baloncesto.",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "6.25 m",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "3.65 m",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "3.05 m",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "2.60 m",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2022-02-28T08:46:46",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nDos bien y dos mal.\n\nLa de qué es una imagen es un poco filosófica, pero tres definiciones se quedan cortas. Hay imágenes de más de dos dimensiones, hay imágenes con bits hasta varios bytes para representar un píxel, y hay imágenes que representan profundidad, transmitancia, ... Por tanto, la única que casa es que la información es discreta.\n\nLas imágenes monocromáticas, aunque ese nombre ya hemos visto que no se ajusta a la realidad, también se llaman en niveles de gris, B/W y tienen varios bits para poder representar la información. Esta ha ido bien.\n\nTodo lo que se comenta del silicio es verdad, pero lo que confiere su capacidad de ser sensible a la zona del visible es que la energía del gap es de 1.1 eV que traducido a longitud de onda son unos 1100 nm y capta desde esos infrarrojos cercanos hasta radiación más energética como el visible. También bien.\n\nY las canastas ... me habéis hecho dudar, pero no lo han cambiado, sigue en 3,05 m. Seguro que los que lo habéis acertado habéis intentado muchas veces tocarla.\n\nVenga las de hoy."
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2022-02-28T08:47:48",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos detectores de contorno está basado en el cálculo de los cruces por cero",
+    "closed": false,
+    "total_voters": 44,
+    "answers": [
+     {
+      "text": "Laplacian of Gaussian",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Roberts",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Sobel",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Canny",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2022-02-28T08:48:21",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La convolución de estos dos vectores (a = [1, 2, 2, 1], b = [−1, 0, 1]) qué resultado da:",
+    "closed": false,
+    "total_voters": 44,
+    "answers": [
+     {
+      "text": "[1, −1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[−1, 0]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[0, −1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[−1, 1]",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2022-02-28T08:48:58",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La correlación de estos dos vectores (a = [1, 2, 2, 1], b = [−1, 0, 1]) qué resultado da:",
+    "closed": false,
+    "total_voters": 45,
+    "answers": [
+     {
+      "text": "[1, −1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[−1, 0]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[0, −1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[−1, 1]",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2022-02-28T08:49:34",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué banda de estas es de Florida. No, no, más fácil, cuál de estas es canadiense.",
+    "closed": false,
+    "total_voters": 38,
+    "answers": [
+     {
+      "text": "ADTR",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "blink-182",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "MxPx",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Sum 41",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2022-03-01T07:48:24",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nOs comento un poco las soluciones.\n\nRoberts, Sobel y Canny usan derivadas primeras para encontrar contornos y por tanto obtienen los contornos como los máximos del módulo del gradiente (primeras derivadas en x e y). Canny además hace una elaboración más refinada de este primer resultado. El laplaciano del gaussiano es una derivada segunda, y por tanto para encontrar los contornos (transiciones bruscas) debemos ir a por los cruces por cero (que es justo donde las derivadas primeras eran extremas (máximas o mínimas)).\n\nEn la convolución se tiene que reflejar el filtro y se debe pasar por toda la señal y hacer la suma ponderada.\nEn nuestro caso, reflejamos (\"flipamos\") el filtro y nos queda [(1) (0) (-1)] y ahora lo colocamos en las dos posiciones en las que cabe, sería como la opción \"valid\" de la función conv. Le he puesto paréntesis para que distingáis el filtro de la señal.\n[1*(1) + 2*(0) + 2*(-1) 1] y [1 2*(1) + 2*(0) + 1*(-1)], y de ahí sale [-1,1].\nLa correlación, similar, pero sin reflejar el filtro.\n\nLa de pop punk no, los ADTR son de Florida (no de Lauderdale, como cantan en su canción, de un poco más arriba). Los Blink-182 son de California. Los MxPx de Bremerton, Washington. Y los canadienses son los Sum 41. \n\nVamos con las de hoy."
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2022-03-01T07:49:03",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La convolución de estos dos vectores (a= [4,3,2,1], b= [−1,0,2]) qué resultado da",
+    "closed": false,
+    "total_voters": 41,
+    "answers": [
+     {
+      "text": "[5,6]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[−1,0]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[0,−1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[6,5]",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2022-03-01T07:49:56",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Queremos: (a) simular desenfoque lineal por desplazamiento, (b) comparar caracteres en una lectura OCR. Qué operaciones utilizaremos.",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "(a) convolución, (b) correlación",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(a) convolución, (b) convolución",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(a) correlación, (b) correlación",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(a) correlación, (b) convolución",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2022-03-01T07:50:43",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Sabemos que un determinado filtro es un filtro pasa bajos y que no incrementa la energía global. Cuál de los siguientes filtros casa con esta descripción.",
+    "closed": false,
+    "total_voters": 41,
+    "answers": [
+     {
+      "text": "[1.0 2.0 1.0]",
+      "voters": 8,
+      "chosen": true
+     },
+     {
+      "text": "[0.4 0.4 0.2]",
+      "voters": 16,
+      "chosen": false
+     },
+     {
+      "text": "[-1.0 0.0 1.0]",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "[-0.5 0.0 0.5]",
+      "voters": 8,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2022-03-01T07:52:32",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El astrofísico y guitarrista de Queen, Brian May, tiene una guitarra que él llama \"red Special\". Es una guitarra única porque:",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "es un prototipo de la NASA especial para él por su contribución a la ciencia del espacio",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la empresa Special dejó de fabricar guitarras en 1964, y esta es la última que fabricaron",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la hicieron su padre y él a partir de maderas viejas (mesa, chimenea, troncos) y piezas diversas",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "es una guitarra de la casa Gretsch, pero barnizada en rojo, con un dibujo de Banksy en el golpeador",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2022-03-02T06:58:01",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nAhora lo comentamos todo.\n\nLa de la convolución, vamos a ver que hay que hacer. Para convolucionar [4,3,2,1] con [-1,0,2] hay que rotar/reflejar/flipar el kernel/filtro/máscara-de-convolución como queráis llamarlo. Y pondremos el filtro en todos los píxeles (en este caso en todos los que quepa). Giramos el filtro [2,0,-1], lo ponemos encima del segundo píxel (3) y hacemos la suma ponderada por los pesos del filtro, y luego lo mismo para el siguiente píxel en el que cabe el filtro. 4*2+3*0+2*(-1) y 3*2+2*0+1*(-1) quedando el resultado [6,5].\n\nDesenfocar se hace con convolución y comparar, buscar, encontrar parecidos se hace con correlación. \n\nLa de los filtros: [1 2 1] es un pasa bajos, simula una gaussianita, pero los pesos suman más que uno, por lo que el resultado final crecerá (tendrá valores mayores); [-1 0 1] es una derivada centrada, pero vista en frecuencia es un pasa altos, lo mismo que [-0.5 0 0.5] que es más acorde con la definición de derivada centrada, pero sigue siendo un pasa altos. La máscara [0.4 0.4 0.2] suma 1, por tanto, de manera global no aumentará la energía y, aunque asimétricamente, lo que hace es promediar/suavizar en una vecindad.\n\nLa \"red Special\" la construyeron Brian May y su padre con piezas de deshecho y restos de maderas viejas y les llevó 18 meses.\n\nVamos con las de hoy."
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2022-03-02T06:58:36",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos detectores de contorno genera el gradiente con máscaras 2×2",
+    "closed": false,
+    "total_voters": 45,
+    "answers": [
+     {
+      "text": "Laplacian of Gaussian",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Roberts",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Sobel",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Canny",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2022-03-02T06:59:05",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué tipo de filtros tenemos con estos dos kernels: a) [1,1,1;1,1,1;1,1,1], b) [0,1,0;1,-4,1;0,1,0]",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "a) pasa bajo, b) pasa bajo",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "a) pasa bajo, b) pasa alto",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "a) pasa alto, b) pasa bajo",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "a) pasa alto, b) pasa alto",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2022-03-02T06:59:37",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En qué caso una correlación y una convolución son equivalentes:",
+    "closed": false,
+    "total_voters": 45,
+    "answers": [
+     {
+      "text": "nunca",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "solo con kernels separables",
+      "voters": 7,
+      "chosen": true
+     },
+     {
+      "text": "cuando los kernels tienen un número impar de filas y columnas",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "cuando el kernel es simétrico en los dos ejes",
+      "voters": 32,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2022-03-02T07:00:11",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Doom salió al mercado de la mano de id Software en 1993. Fue uno de los primero FPS y rompió moldes gracias al uso del 3D de una manera diferente hasta la fecha. Quién programó y dirigió este juego.",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "John Romero",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "John Carmack",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "John McEnroe",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "John Cena",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2022-03-03T07:35:03",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nNo ha ido muy bien y es de las últimas de filtrado lineal. Repasaremos más esta parte ya que es muy importante.\n\nLos filtros que usa Roberts para encontrar contornos son [-1 0;0 1] y [0 -1; 1 0], es uno de los primeros algoritmos que se implementó, no había mucha máquina detrás para respaldar los cálculos. Si veis las derivadas son ortogonales, aunque no están en los ejes x e y. Se usaba el valor absoluto para llegar al módulo del gradiente, por tanto, en todo el proceso no había operaciones complicadas. El resto de los filtros necesarios para las otras opciones son mayores a 2×2.\n\nLa primera matriz es un box 3×3 y es un pasa bajos, hacemos un emborronamiento (blurring) local. La energía de esa vecindad 3x3 recae en cada píxel y por tanto perdemos detalle, promediamos una pequeña vecindad. Emborronar es eliminar detalles, quitar alta frecuencia. Por tanto, todo lo que emborrone es un \"dejar pasar las bajas frecuencias\" -> \"pasa bajos\". El segundo filtro es una aproximación de la laplaciana, mirad que tiene media 0, así que de saque elimina el termino DC (de la electrónica: \"direct current\" (corriente continua),el promedio de toda la imagen). Filtrar con el laplaciano deja pasar las altas frecuencias y elimina las bajas, por tanto, es un \"pasa altos\". En la teoría aparece en alguna transparencia con su filtro asociado en frecuencia, echadle un ojo.\n\nLa tercera bien. Si el filtro (kernel, núcleo, máscara de convolución, psf, como queráis llamarle) es simétrico, los flips que hay que hacer no le afectan y por tanto dan el mismo resultado. Serán equivalentes.\n \nY sí, John Carmack desarrolló Doom junto a John Romero que lo diseñó. También ha estado involucrado en las gafas VR Oculus que fue comprada por Facebook. Últimamente quiere dedicarse a la IA.\n\nVenga, las de hoy."
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2022-03-03T07:36:05",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué tamaño tienen las matrices que generan las derivadas de los detectores Roberts y Sobel respectivamente.",
+    "closed": false,
+    "total_voters": 44,
+    "answers": [
+     {
+      "text": "2×2, 2×2",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "2×2, 3×3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "3×3, 2×2",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "3×3, 3×3",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2022-03-03T07:37:05",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La máscara [0 -1 0; -1 4 -1; 0 -1 0] es la aproximación 3×3 de:",
+    "closed": false,
+    "total_voters": 41,
+    "answers": [
+     {
+      "text": "el Laplaciano",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la derivada del detector de Sobel",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "el detector de Canny",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "una gausiana",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2022-03-03T07:38:11",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de las siguientes máscaras no servirían para definir una de las componentes de un vector gradiente.",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "[1 1 1; -1 -1 -1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[1, 0; 0, -1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[1 0 1; -2 0 -2; 1 0 1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[1 3 1; 0 0 0; -1 -3 -1]",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2022-03-03T07:39:10",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos grupos no es una boyband de K-pop.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "EXO",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "BTS",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "A-HA",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "TXT",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2022-03-04T08:16:44",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días,\n\nle seguimos dando vueltas a esto porque es importante.\n\nLa de Roberts y Sobel bien, son detectores de contornos basados en primeras derivadas, donde se calcula el módulo del vector gradiente. El vector gradiente en una imagen nos indica, para cada punto, la dirección y la pendiente máxima, por tanto, el módulo nos dará los contornos que buscamos. Recordad que todas estas cosas se calculan con operaciones simples aplicadas sobre imágenes enteras que representan las derivadas, y estas derivadas se consiguen filtrando (convolucionando) con máscaras (filtro, kernel, psf...).\n\nEl operador laplaciano implica cálculos de segundas derivadas (derivadas de derivadas). Se suele asociar el término laplaciana a la de la gaussiana, y esta para sigma pequeña se puede representar con la matriz que aparece en la pregunta. Si hacéis un corte de este filtro (poned ceros fuera) veréis una forma similar a un sombrero mejicano. Si en lugar de usar una gaussiana pequeña y discreta optamos por una con sigma más grande la forma de sombrero será más clara. De ninguna manera puede ser una gaussiana (campana de Gauss, curva normal ...) con valores negativos.\n\nPara definir el vector gradiente, como ya hemos comentado, necesitamos dos derivadas ortogonales, por ejemplo, Dx y Dy. Para tener una derivada necesitamos calcular diferencias de la función/imagen en dos puntos muy cercanos. Muchas veces las máscaras que hacen la derivada aprovechan la ocasión para hacer una pequeña suavización. En general se caracterizarán por tener dos zonas, una positiva y otra negativa, a veces separadas por ceros (en el caso de derivadas centradas). \n\nTodos los grupos son de pop, casi todos surcoreanos y más o menos actuales. El que no casa, y no es k-pop, es A-ha que es pop ochentero y son de Noruega. \n\nLas de hoy y buen fin de semana."
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2022-03-04T08:17:27",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas acciones generará un resultado diferente al resto",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "conv2(im,ones(3,3),'same');",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "conv2(conv2(im,ones(3,1),'same'),ones(1,3),'same');",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "conv2(im,ones(3,1)*ones(1,3),'same');",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "conv2(im,ones(3,1),'same').*conv2(im,ones(1,3),'same');",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2022-03-04T08:18:05",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos filtros no es separable.",
+    "closed": false,
+    "total_voters": 46,
+    "answers": [
+     {
+      "text": "[1 2 -1; 2 4 -2; 3 9 -3]",
+      "voters": 20,
+      "chosen": true
+     },
+     {
+      "text": "[1 1; 1 1]",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "[0 0; 1 1]",
+      "voters": 15,
+      "chosen": false
+     },
+     {
+      "text": "[1 2 1; -2 -4 -2]",
+      "voters": 2,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2022-03-04T08:18:42",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos detectores de contorno está basado en el cálculo de los cruces por cero del resultado que obtenemos al aplicarlo sobre una imagen.",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "Laplacian of Gaussian",
+      "voters": 18,
+      "chosen": false
+     },
+     {
+      "text": "Roberts",
+      "voters": 8,
+      "chosen": false
+     },
+     {
+      "text": "Sobel",
+      "voters": 8,
+      "chosen": true
+     },
+     {
+      "text": "Canny",
+      "voters": 8,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2022-03-04T08:19:45",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "ara una startup ¿qué se considera como bootstrapping?",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "La fase en la que entran los business angels",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "La fase donde se arranca con fondos de los propios emprendedores",
+      "voters": 16,
+      "chosen": true
+     },
+     {
+      "text": "La fase en la que entra capital riesgo (venture capital)",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "La fase de salida a bolsa",
+      "voters": 8,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2022-03-07T08:38:34",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nRepasamos un poco las últimas.\n\nLa convolución de una imagen con una máscara de unos 3×3 (o del tamaño que sea), la podemos expresar gracias a la separabilidad de ese filtro como una composición de convoluciones del filtro x y el resultado con el filtro y (anidadas:  conv(conv im, fx)fy) ),. Esta sería la versión más eficiente para el caso de tamaños grandes de filtros separables. La tercera solución equivalente ha montado el filtro 2D multiplicando las dos componentes separables, no ganamos nada, pero es equivalente. Y la que no es igual es la que multiplica punto a punto los resultados de convolucionar la imagen por separado.\n\nLa separabilidad consiste en poder expresar una función como producto de factores: f(x,y)=g(x)·h(y). En el caso de matrices tenemos que poder obtener la matriz con un producto matricial de un vector columna por un vector fila. Si se puede es separable, si no, pues no. Otra manera de saber si es separable es mirar el rango de la matriz (rank()) y si es 1 es que es separable. Otra forma es mirando la descomposición en valores singulares y mirar si sólo tenemos un valor singular.\n\nLos detectores de contornos basados en las primeras derivadas buscan los máximos de estas derivadas (realmente del gradiente). Para las segundas derivadas (derivadas de derivadas) los contornos (saltos bruscos en el nivel de gris) se convierten en cruces por cero. El operador que usa las segundas derivadas es el laplaciano.\n\nAlgunas startups no han necesitado dinero externo de inversores para crecer, se conoce a este hecho o a esa fase inicial como bootstrap. En esas primeras etapas, después del bootstraping, se puede implicar a los FFF (friends, family and fools). Luego se añaden los BA (business angels). El dinero externo que llega en estas fases tempranas recibe el nombre de preseed y seed. Luego vienen los fondos de capital riesgo, con rondas con letras A, B, C,..., y finalmente si se estima oportuno se sale a bolsa en una IPO para que la financiación venga de los mercados. \nNo hace falta pasar por todas estas fases para montar una startup.\n\nVamos con las de hoy."
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2022-03-07T08:39:16",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de las siguientes propiedades de la transformada de Fourier se expresa de manera inversa en el espacio y en frecuencia.",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "Rotación",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "Escalado",
+      "voters": 17,
+      "chosen": false
+     },
+     {
+      "text": "Derivada",
+      "voters": 10,
+      "chosen": false
+     },
+     {
+      "text": "Simetría",
+      "voters": 10,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2022-03-07T08:40:11",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La convolución en el dominio espacial se convierte en el dominio frecuencial en:",
+    "closed": false,
+    "total_voters": 41,
+    "answers": [
+     {
+      "text": "una sustracción de la imagen transformada y la máscara transformada",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "un escalado de la máscara",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "un producto",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "una simetría para el caso de funciones reales",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2022-03-07T08:40:54",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El resultado de aplicar una FFT a una imagen genérica en niveles de gris",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "genera una imagen del mismo tamaño y del mismo tipo",
+      "voters": 10,
+      "chosen": false
+     },
+     {
+      "text": "genera una imagen del mismo tamaño y complex",
+      "voters": 20,
+      "chosen": true
+     },
+     {
+      "text": "genera una imagen de diferente tamaño y float",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "genera una imagen de diferente tamaño y double",
+      "voters": 6,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2022-03-07T08:41:32",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El volante o pluma de bádminton se hace del ala izquierda de un ganso. Pero cuántas plumas tiene",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "4",
+      "voters": 4,
+      "chosen": false
+     },
+     {
+      "text": "8",
+      "voters": 19,
+      "chosen": true
+     },
+     {
+      "text": "16",
+      "voters": 14,
+      "chosen": false
+     },
+     {
+      "text": "32",
+      "voters": 2,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2022-03-08T08:51:18",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días. \n\nAlgunos comentarios.\n\nSobre la propiedad que es inversa en el espacio y en frecuencia: Escalado. Cuando se hacen las cosas grandes en el espacio en Fourier se hacen pequeñas y viceversa. Repasad las propiedades: sea TF[f(x)] = F(ω), entonces TF[f(ax)] = (1/|a|)F(ω/a)\n\nLa siguiente pregunta tiene que ver con el lab2. Una de las correlaciones que tenéis que hacer es en Fourier. Las convoluciones y las correlaciones en Fourier son multiplicaciones de la transformada de la imagen y la transformada del filtro (o segunda imagen). En el caso de la correlación la segunda tiene que ir conjugada (parte imaginaria cambiada de signo).\n\nBien la FFT, es compleja. De hecho, la información en esta transformación no aumenta ni disminuye. En el caso de empezar con una señal real, el caso más habitual para nosotros, (uno puede pensar que tenemos la mitad de la información que llevaría un complejo), el resultado en el módulo de la transformada (y la fase también) es simétrico, tenemos repetida la información dos veces, queda compensado. \n\nY el volante de bádminton usa 16 plumas del ala izquierda de un ganso, y con uno de estos se consiguen velocidades máximas de 493 Km/h, más que en tenis, futbol, golf... \n\nEspero que estéis bien. Vamos con las de hoy."
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2022-03-08T08:52:24",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Queremos ver el resultado de una transformada de Fourier de una imagen. Cuál de estas transformaciones no lineales sería más adecuada.",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "log(1+abs(fft_im))",
+      "voters": 31,
+      "chosen": true
+     },
+     {
+      "text": "log(fft_im)",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "exp(fft_im)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "exp(1+abs(fft_im))",
+      "voters": 4,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2022-03-08T08:53:11",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas operaciones no se puede implementar con una LUT.",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "Imagen negativo",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "Maximización del contraste",
+      "voters": 5,
+      "chosen": false
+     },
+     {
+      "text": "Imagen derivada",
+      "voters": 23,
+      "chosen": false
+     },
+     {
+      "text": "Ecualización",
+      "voters": 8,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2022-03-08T08:56:52",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos filtros no es separable:",
+    "closed": false,
+    "total_voters": 43,
+    "answers": [
+     {
+      "text": "[1 2 -1; 2 4 -2; 3 6 -3]",
+      "voters": 16,
+      "chosen": true
+     },
+     {
+      "text": "[1 0; 0 1]",
+      "voters": 20,
+      "chosen": false
+     },
+     {
+      "text": "[2 2; 1 1]",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "[1 2 1; 0 0 0; -1 -2 -1]",
+      "voters": 5,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2022-03-08T08:59:00",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué se presume que hay en el centro de nuestra galaxia.",
+    "closed": false,
+    "total_voters": 38,
+    "answers": [
+     {
+      "text": "Nuestro sol",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "Alfa Centauri",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "Sagitario A*",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "Agujero negro M87",
+      "voters": 22,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2022-03-09T07:00:57",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días. \n\nLas preguntas, algunas bien, vamos con algunas aclaraciones.\n\nLos logaritmos de valores menores a 1 dan valores negativos que tienden a -∞ a medida que se acercan a 0. Mejor que la salida esté bien controlada y que el rango inferior de salida sea 0 (log(1)). Por eso le sumamos un 1.\n\nEl de la derivada bien, necesitamos \"filtrar\" con una máscara teniendo en cuenta una vecindad. Así que nada de LUTs.\n\nLos filtros separables son aquellos que se pueden montar con el producto matricial de dos filtros unidimensionales, o que su rango es 1. El primero se puede construir con [1;2;3]*[1 2 -1], por tanto es separable, lo mismo le pasa al tercero y el cuarto. El segundo no se puede separar, su rango es 2. La separabilidad no tiene nada que ver con que sea cuadrada la matriz. Recordad que con la SVD se puede encontrar fácilmente mirando si sólo tiene un valor singular. Y que el uso de la separabilidad permite acelerar el filtrado.\n\nLa del centro de la galaxia mal. El sol no, Alfa Centauri tampoco, es nuestro sistema estelar más cercano a unos 4 años luz. El famoso y fotogénico agujero de la M87 que salió en la prensa hace unos años, pues tampoco, está en la galaxia M87. El centro de nuestra galaxia se cree que tiene un agujero negro con una fuerte emisión cercana de rayos X que se llama Sagitario A*.\n\nVamos con las de hoy."
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2022-03-09T07:01:49",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de las siguientes propiedades de la transformada de Fourier se expresa de la misma manera en el espacio y en frecuencia.",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "Rotación",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Escalado",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Derivada",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Homografía",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2022-03-09T07:02:24",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál es el resultado de esta operación, conv2([1, 2; 3, 4],[1, -1]','valid')",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "[-1,-1]'",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[2,2]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[-2,-2]'",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "[1,1]",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2022-03-09T07:03:05",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Para qué usaríamos una técnica basada en espacio escala.",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "Para analizar secuencias temporales",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Para analizar estructura a diferentes escalas",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Para optimizar las transformaciones geométricas",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Para analizar color",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2022-03-09T07:04:05",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "After all this time?",
+    "closed": false,
+    "total_voters": 42,
+    "answers": [
+     {
+      "text": "Too",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Always",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Forever",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Again",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2022-03-10T07:37:20",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nOs doy un poco de explicación de las respuestas anteriores.\n\nLa rotación bien. Si rota la imagen, su transformada de Fourier rota de la misma manera. Si se escala va a la inversa (grande-pequeño, pequeño-grande). Las traslaciones de la imagen no mueven el módulo de la transformada ...\n\nLa convolución no ha ido bien, casi. Cuidado con las transpuestas, y recordad los dos flips (horizontal y vertical).\n\nEl espacio escala, como su nombre indica, sirve para analizar el contenido de las imágenes a distintas escalas o ver la evolución de este contenido a lo largo de las escalas. Este contenido siempre asociado a valores que aporten información (contornos, esquinas, textura...), en definitiva estructura.\n\nAfter all this time? Always. Es una conversación entre Dumbledore y Snape sobre la madre de Harry. No ha ido bien, supongo que ser muggle ha influido.\n\nVamos con las de hoy."
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2022-03-10T07:38:02",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La mejora que obtenemos usando la FFT respecto a la convolución en el espacio viene de:",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "la convolución sólo se aplica con máscaras impares, la FFT con cualquier tamaño de máscara.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la FFT permite hacer convoluciones en más de una dimensión y la convolución no.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la FFT transforma la señal a una representación donde la mayoría de los coeficientes son 0.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "la FFT tiene un coste NlogN y la convolución N².",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2022-03-10T07:38:43",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué es un gradiente.",
+    "closed": false,
+    "total_voters": 41,
+    "answers": [
+     {
+      "text": "Una magnitud.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Una orientación.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Un filtro pasa bajos.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Un vector.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2022-03-10T07:39:39",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La multiplicación de 2 números complejos z1·z2 (expresados en forma binómica y polar), siendo z1 = a + ib = r exp(iθ) y z2 = c + id = s exp(iρ) da:",
+    "closed": false,
+    "total_voters": 35,
+    "answers": [
+     {
+      "text": "(ac+bd)+i(ad+bc); r s exp(i(θ-ρ))",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(ac-bd)+i(ad+bc); r s exp(i(θ-ρ))",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(ac+bd)+i(ad+bc); r s exp(i(θ+ρ))",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(ac-bd)+i(ad+bc); r s exp(i(θ+ρ))",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2022-03-10T07:40:15",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Sima, Rose y Maria son los nombres de",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "las tres gracias de Rubens",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "las señoritas de Avignon de Pablo Picasso",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "las murallas de Attack on Titan",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "los nombres de las carabelas que usó Cristóbal Colón",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2022-03-11T08:49:12",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nBastante bien, excepto la de los complejos, hay que repasar esas nociones básicas, nos tenemos que subir a la chepa de los gigantes.\n\nUna de las ventajas de trabajar con la FFT es la reducción de complejidad de la convolución. \n\nUn gradiente es un vector, y como tal tiene magnitud y orientación (pero las dos a la vez), o tiene componentes en las direcciones del espacio que represente. Estas componentes son las primeras derivadas en las direcciones del espacio. Las derivadas aisladamente, vistas como filtro (no el gradiente, las componentes por separado), recordad en frecuencia consiste en multiplicar por iω, es decir lo que está en 0 (término DC), se multiplica por 0 y se elimina, y a medida que subimos en frecuencia se multiplica por valores más grandes, por tanto, amplifican la alta frecuencia. Podríamos decir que las componentes del vector gradiente tienen un comportamiento de pasa altos.\n\nLa de multiplicar complejos la tenéis que repasar. El producto de complejos se usa para hacer convoluciones y aunque nos conformamos con que las librerías que usamos están sobrecargadas, si algún día se va la luz, no hay Google, y tenemos que multiplicar un complejo tenéis que deducirlo a partir de sqrt(-1) = i y todo lo que ya sabéis.\n\nBien, bien. Sima, Rose y Maria son los nombres de las murallas, y ... y nada más, que hago spoiler.\n\nVamos con la tanda de hoy y buen finde."
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2022-03-11T08:50:35",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Desde el punto de vista frecuencial, una suavización es un filtro",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "pasa bajos.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "pasa altos.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "pasa banda.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "direccional.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2022-03-11T08:51:52",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En una imagen de una cuadrícula (líneas blancas horizontales y verticales separadas una misma distancia sobre fondo negro) queremos encontrar los cruces utilizando una máscara en forma de cruz.",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "Sólo con convolución obtenemos máximos locales en los cruces.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Ya sea con correlación o convolución obtenemos máximos locales en los cruces.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Sólo usando correlación obtenemos máximos locales en los cruces.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Ya sea con correlación o convolución obtenemos mínimos locales en cruces.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2022-03-11T08:54:41",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas transformaciones no define un sistema lineal (linealidad e invariancia a traslación).",
+    "closed": false,
+    "total_voters": 38,
+    "answers": [
+     {
+      "text": "T[f(x)] = f(x) + f(x+1)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "T[f(x)] = |f(x)|",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "T[f(x)] = f(x)*g(x)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "T[f(x)] = kf(x)",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2022-03-11T08:55:30",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "A quién se atribuye esta frase \"Si he visto más, es poniéndome sobre los hombros de Gigantes\".",
+    "closed": false,
+    "total_voters": 33,
+    "answers": [
+     {
+      "text": "Isaac Asimov",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Isaac Newton",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Eren Yeager (Eren Jaeger)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Míster Jägger",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2022-03-14T06:56:30",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nOs doy algo de feedback de las preguntas anteriores.\n\nSuavizar (blurring, emborronar) consiste en hacer un promedio local de los valores de una cierta vecindad. Esta media puede estar ponderada por algún tipo de pesos (gaussiana, rectángulo...). En esencia las oscilaciones rápidas de la señal se atenuarán, y este es el comportamiento de los filtros pasa bajos. Podéis pensar también en la TF de una gaussiana, si la usamos para convolució, vemos que en Fourier vuelve a ser otra gaussiana que dejará pasar las frecuencias cercanas al origen, y atenuará las alejadas del origen.\n\nEn el caso de trabajar con máscaras simétricas la convolución y la correlación son equivalentes. Muchas veces, cuando trabajemos con filtrado para generar y detectar puntos interesantes en las imágenes, ver los filtrados justo como detectores de patrones concretos será interesante.\n\nLa función no lineal de las que se presentan es el valor absoluto. La que contiene un * se suponía que era una convolución y justamente es un proceso lineal. Si el símbolo * se ha interpretado como producto, entonces sí, el producto de dos funciones arbitrarias es no lineal, pero no era el caso. Otra no linealidad típica es elevar al cuadrado. Cuando lleguen las redes neuronales se usarán algunas: ReLu, sigmoidea, tanh, ...\n\nLa cita, según la wikipedia, es una metáfora de enanos de pie sobre los hombros de gigantes (en latín, nanos gigantum humeris insidentes) y expresa el significado de \"descubrir una verdad a partir de descubrimientos previos\".​ Este concepto se remonta al siglo XII, atribuido a Bernardo de Chartres. Su expresión más familiar en inglés es la de Isaac Newton en 1675: \"Si he visto más lejos, es poniéndome sobre los hombros de Gigantes\".\n\nVamos con las de hoy."
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2022-03-14T06:57:16",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El filtro de mediana elimina muy bien el ruido",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "uniforme.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "gaussiano.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "impulsional.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "normal.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2022-03-14T06:58:21",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Queremos implementar un opening sobre imágenes en niveles de gris. Cómo podríamos actuar.",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "No se puede. Los openings y closings sólo se pueden calcular en imágenes binarias.",
+      "voters": 2,
+      "chosen": false
+     },
+     {
+      "text": "Mínimo local seguido de un máximo local.",
+      "voters": 15,
+      "chosen": true
+     },
+     {
+      "text": "Máximo local seguido de un mínimo local.",
+      "voters": 11,
+      "chosen": false
+     },
+     {
+      "text": "Se puede hacer, pero no con máximos ni mínimos locales.",
+      "voters": 9,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2022-03-14T06:59:08",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Si las operaciones básicas en morfología binaria las hacemos con (1) AND, para erosionar, y (2) OR, para dilatar; cuáles serán las que usaremos para la morfología en niveles de gris para (1) erosionar y (2) dilatar.",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "(1) MIN, (2) MAX",
+      "voters": 20,
+      "chosen": true
+     },
+     {
+      "text": "(1) MAX, (2) MIN",
+      "voters": 8,
+      "chosen": false
+     },
+     {
+      "text": "(1) AND, (2) OR",
+      "voters": 9,
+      "chosen": false
+     },
+     {
+      "text": "(1) OR, (2) AND",
+      "voters": 2,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2022-03-14T07:00:19",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "A qué hace referencia Hoi-Poi.",
+    "closed": false,
+    "total_voters": 32,
+    "answers": [
+     {
+      "text": "Es un arte marcial que se practica al sur de Filipinas.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Son unas cápsulas creadas por el Dr. Brief que permiten transportar objetos grandes.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Es una comida vietnamita con alto contenido en vitamina C.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Es uno de los youtubers más famosos de Corea del Norte.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2022-03-15T06:56:55",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "No han ido muy bien, pero era la primera de este tema de la semana. Irá mejorando.\n\nEl filtro de media (hacer un promedio local, que ya de paso, recordad que es un filtro lineal) va bien para quitar el ruido gaussiano (normal y gaussiano son sinónimos), también quitaría el ruido uniforme (aunque este ruido es poco creíble en imágenes), pero va muy mal en el ruido impulsional (salt and pepper). Por contra, el ruido impulsional se quita muy bien con el filtrado no lineal de MEDIANA (recordad, filtro de mediana ordena los elementos de una ventana y se queda con el valor central de la ordenación).\n\nEl opening es erosionar \"para abrir/borrar puertas\", una vez borradas se dilata para rellenar y restituir lo que se pueda. Las erosiones y dilataciones son en imágenes de gris mínimos y máximos locales respectivamente.\n\nErosionar y dilatar, en imágenes de niveles de gris, equivale a buscar los valores mínimos y máximos respectivamente en la vecindad definida por el elemento estructurante, realizando este proceso en todos los píxeles de la imagen.\n\nY las de las capsulas bien. Bulma, amiga de Goku, usaba cápsulas Hoi-Poi que había inventado su padre, el Dr Brief. \n\nVamos a por algunas más."
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2022-03-15T06:57:31",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "El open residue o top-hat de una imagen im cómo se calcula.",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "im - erode(dilate(im))",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "im - dilate(erode(im))",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "erode(dilate(im)) - im",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "dilate(erode(im)) - im",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2022-03-15T06:58:09",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "i=zeros(9,9), i(5,5)=1, i=imdilate(i,ones(3,3)), i=imdilate(i,ones(3,3)) genera un cuadrado centrado de tamaño:",
+    "closed": false,
+    "total_voters": 38,
+    "answers": [
+     {
+      "text": "3×3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "5×5",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "7×7",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "9×9",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2022-03-15T06:58:58",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En un entorno local a un píxel tenemos los siguientes valores [1,1,1; 3,6,3; 1,1,1]. Qué salida dará para ese píxel: a) un filtro de media (uniforme), b) un filtro de mediana.",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "a) 1, b) 2",
+      "voters": 9,
+      "chosen": true
+     },
+     {
+      "text": "a) 1, b) 6",
+      "voters": 6,
+      "chosen": false
+     },
+     {
+      "text": "a) 2, b) 6",
+      "voters": 13,
+      "chosen": false
+     },
+     {
+      "text": "a) 2, b) 1",
+      "voters": 11,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2022-03-15T06:59:47",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Si quieres encontrar githubs o sitios en general con listas de links interesantes agrupadas sobre un determinado tema \"specific topic\", qué tipo de búsqueda se lleva ahora.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "please google, search for a specific topic",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "specific topic",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "specific topic now!",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "awesome specific topic",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2022-03-16T06:42:00",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días. \n\nAclaro algunos conceptos.\n\nEl top-hat bien. Imagen menos el opening. Y un opening es una erosión seguida de una dilatación.\n\nLa pregunta de dilatar dos veces para conseguir un cuadrado. La primera parte (i=zeros(9,9), i(5,5)=1) pone un píxel central. La primera dilatación de ese píxel aislado con un elemento 3×3, genera un cuadrado 3×3 (ese píxel aislado se rodea con una capa de 1 píxel de grosor). La segunda dilatación con el elemento 3×3, le genera otra segunda capa, así que el resultado final es de 5×5.\n\nEl filtro de media consiste en convolucionar con una caja (box), si dice que es uniforme y me dan 3×3 elementos, se entiende que todos pesan igual. La media o promedio de los valores que se muestran es 2, así que el filtro de media da 2. La mediana consiste en ordenar los valores y elegir el central. Si miráis los valores vemos que hay 6 unos, 2 treses y un 6. Ordenados: 1 1 1 1 (1) 1 3 3 6, el que está en la posición central, la quinta, es un uno. El filtro de mediana dará 1.\n\nSi ya lo sabías bien, si no, pruébalo, te sorprenderá: \"awesome lane detection\", \"awesome satellite imagery\", \"awesome bitcoin\"...\n\nVamos con las de hoy."
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2022-03-16T06:42:58",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de las siguientes frases referidas a los watershed es falsa.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "La aplicación directa sobre imágenes normales suele dar problemas se sobresegmentación.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "En un mapa topográfico las fronteras del watershed se corresponderían con los ríos",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Las fronteras del watershed separan las diferentes cuencas o zonas de influencia",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Cada mínimo local genera una zona de influencia",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2022-03-16T06:43:43",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Si el elemento estructurante contiene al origen, cuál de esta cadena de inclusiones es correcta:",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "dilate(X)⊆closing(X)⊆X⊆opening(X)⊆dilate(X)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "erode(X)⊆opening(X)⊆X⊆closing(X)⊆dilate(X)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "dilate(X)⊆opening(X)⊆X⊆closing(X)⊆dilate(X)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "erode(X)⊆closing(X)⊆X⊆opening(X)⊆dilate(X)",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2022-03-16T06:44:48",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Si aplicamos a una imagen binaria una erosión seguida de una dilatación con el mismo elemento estructurante sin cambiarlo en todo el proceso y este proceso lo iteramos, qué conseguiremos.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "Obtendremos una imagen nula.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Obtendremos una imagen saturada (todo unos).",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Dependiendo del elemento estructurante o se borrará todo o se llenará todo.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "El resultado de la primera iteración se mantendrá estable.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2022-03-16T06:45:31",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas personas fue la primera en recibir dos premios Nobel.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "Linus Pauling",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Marie Sklodowska Curie",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "John Bardeen",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Frederick Sanger",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2022-03-17T07:19:11",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nCasi todas, muy bien.\n\nSobre los watersheds, nos preguntaban por la falsa. Verdades sobre los watersheds: suelen sobresegmentar, son líneas de un píxel que pasan por las crestas de los terrenos, separan zonas de influencia o cuencas o valles. Por cierto, cada una de estas regiones de influencia están asociadas a un mínimo, pero estos mínimos no son los watershdes. Así que la falsa es que estén asociadas a los ríos.\n\nLa de las inclusiones, pues está en la teoría, tiene una trasparencia para ella solita. La erosión quita material, el opening quita y pone (se queda corto), el conjunto es la referencia, el closing pone y quita (se pasa un poco), y finalmente la dilatación pone material. Pero todo esto si el elemento estructurante contiene el centro, que quiere decir que en el 0,0 tiene un uno.\n\n¿Qué pasa si iteramos una erosión+dilatación? (recordad, opening). Pues el opening y el closing son operaciones idempotentes. \"El término idempotente se usa para describir una operación que produce los mismos resultados si se ejecuta una o varias veces\" (wikipedia). Vamos, que no cambiará en las sucesivas iteraciones.\n\nY Marie Curie fue la primera persona en conseguir dos premios Nobel (física en 1903 y química en 1911). El resto de los investigadores de la lista también consiguieron dos premios Nobel.\n\nVamos a por algunas más."
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2022-03-17T07:19:45",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas operaciones no es equivalente a las demás:",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "imclose(im, ones (10))",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "255-imopen(255-im, ones (10))",
+      "voters": 9,
+      "chosen": true
+     },
+     {
+      "text": "imdilate(imerode(im,ones (10)), ones(10))",
+      "voters": 14,
+      "chosen": false
+     },
+     {
+      "text": "imerode(imdilate(im,ones (10)), ones(10))",
+      "voters": 10,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2022-03-17T07:20:19",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En una transmisión recibimos como resultado una imagen con ruido donde unos pocos píxeles cambian su valor de forma radical saturándose o apagándose. Qué filtro utilizarías para tratar de quitar este ruido:",
+    "closed": false,
+    "total_voters": 40,
+    "answers": [
+     {
+      "text": "filtro de media",
+      "voters": 6,
+      "chosen": true
+     },
+     {
+      "text": "filtro homomórfico",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "filtro de mediana",
+      "voters": 20,
+      "chosen": false
+     },
+     {
+      "text": "una erosión seguida de una dilatación",
+      "voters": 7,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2022-03-17T07:20:48",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En cuál de estas operaciones no necesitamos utilizar la operación de hit-or-miss.",
+    "closed": false,
+    "total_voters": 39,
+    "answers": [
+     {
+      "text": "Skeleton",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Gradiente morfológico",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Thickening",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Thinning",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2022-03-17T07:21:19",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos instrumentos no tiene mucha relación con el resto.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "Bandoneón",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Trikitixa",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Otamatone",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Acordeón",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2022-03-18T08:32:03",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\n!Chapó!, todas bien.\n\nEl de openings y closings, todos equivalen a un closing excepto el tercero que equivale a un opening. \n\nEl ruido en el que unos pocos píxeles se apagan o se saturan es el salt and pepper (ruido impulsional) y el filtro que mejor lo quita es el filtro de mediana. Esta ha ido muy bien.\n\nLa pregunta sobre el hit-or-miss (operador de todo o nada), muy bien. Justo es el gradiente morfológico la que no lo usa. \n\nLa de los instrumentos, pues casi todos son versiones de acordeones, el genérico, uno ligado a Argentina (bandoneón) y otro al País Vasco (trikitixa). El Otamatone, por contra, es un engendro electrónico reciente muy friki.\n\nLas de hoy, y buen fin de semana."
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2022-03-18T08:32:37",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de las siguientes aproximaciones NO nos daría como resultado una imagen de contornos, siendo dx y dy las componentes del vector gradiente.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "im-imerode(im,ones(3))",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "sqrt(dx.*dx+dy.*dy)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "abs(dx)+abs(dy)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(dx==0 && dy==0)",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2022-03-18T08:33:19",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "La dilatación de estos dos elementos: s1=[1,1,1] y s2=fliplr(s1) da lugar a:",
+    "closed": false,
+    "total_voters": 38,
+    "answers": [
+     {
+      "text": "[1,1,1,1,1]",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "cuadrado 3×3 de unos",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "cruz de unos 3×3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "rectángulo 5×5 de unos",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2022-03-18T08:33:52",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En un problema en el que queremos segmentar, tenemos unos elementos claros de tamaño d, con un fondo oscuro con degradado nos impide hacer un threshold global. Por cuál de las siguientes operaciones optaríamos para conseguir la segmentación.",
+    "closed": false,
+    "total_voters": 36,
+    "answers": [
+     {
+      "text": "im-imopen(im,b);  % b elemento de tamaño < d",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "imclose(im,b)-im; % b elemento de tamaño < d",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "im-imopen(im,B);  % B elemento de tamaño > d",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "imclose(im,B)-im; % B elemento de tamaño > d",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2022-03-18T08:34:34",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En qué película el protagonista lucha contra los siete exnovios de su chica.",
+    "closed": false,
+    "total_voters": 35,
+    "answers": [
+     {
+      "text": "Clerks",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Chasing Amy",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "(500) días juntos",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Scott Pilgrim vs. the World",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2022-03-21T06:39:09",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nNo han ido muy bien.\n\nSobre las aproximaciones para conseguir contornos. Si miráis las tres primeras son válidas: la primera es la opción, no lineal, montada con morfo; las dos siguientes son las aproximaciones que usa Sobel y Roberts, una basada el L2 (distancia euclídea) y la otra en L1 (distancia de Manhattan) pero ambas válidas. Y la última es una mezcla de primeras derivadas y cruces por cero, vamos, una tontería, esta es la mala.\n\nLa función fliplr (flip left-right) no altera este elemento estructurante en concreto, por tanto, s1 = s2. Y la dilatación añade en el resultado un píxel blanco extra por cada lado de s1. Por tanto, la buena es la primera opción.\n\nPara visualizar el problema podéis acudir a la imagen de los granos de arroz con fondo degradado. Tenemos que eliminar los granos (erode) y restituir el fondo (dilate), con un elemento suficientemente grande para que desaparezcan. Esto que es un opening nos entrega un fondo sin objetos. Si restamos este fondo de la imagen original nos quedan los objetos con un fondo uniforme.\n\nTodas son buenas películas, pero lo de los siete exnovios es la pista para saber que se trata de Scott Pilgrim. \n\nCambiamos de tema. Vamos con las de hoy."
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2022-03-21T06:39:45",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Con una cámara, sin alterar el enfoque ni la focal, tomamos diferentes vistas de una escena cambiando sólo la posición. Cuál de las matrices del modelo de proyección de una cámara pinhole se cambiará:",
+    "closed": false,
+    "total_voters": 31,
+    "answers": [
+     {
+      "text": "Matriz de parámetros intrínsecos",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Matriz de parámetros extrínsecos",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Las dos matrices",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Ninguna de las dos",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2022-03-21T06:40:12",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuántos puntos (píxeles vecinos) se necesitan para hacer una interpolación bilineal:",
+    "closed": false,
+    "total_voters": 33,
+    "answers": [
+     {
+      "text": "1",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "4",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "9",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "16",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2022-03-21T06:40:46",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Con una cámara que gira sobre un eje vertical que pasa por su centro óptico, qué tipo de mosaicos podemos recrear en el que los solapamientos sean correctos:",
+    "closed": false,
+    "total_voters": 33,
+    "answers": [
+     {
+      "text": "sólo mosaico plano",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "mosaico plano y cilíndrico",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "sólo mosaico cilíndrico",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "mosaico ortorectificado",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2022-03-21T06:41:12",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuántos sólidos platónicos (poliedros regulares) hay.",
+    "closed": false,
+    "total_voters": 32,
+    "answers": [
+     {
+      "text": "5",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "9",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "12",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "20",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2022-03-22T07:16:47",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nLas de la asignatura bien.\n\nLa matriz de proyección se consigue multiplicando la matriz de parámetros intrínsecos por la de extrínsecos. Los intrínsecos hacen referencia al centro óptico y la focal, los extrínsecos son la rotación y traslación que posicionan la cámara en el mundo. Si se mueve la cámara sin tocar la focal, lo único que cambia es su posición (extrínsecos).\n\nLa segunda, para bilineal 4 puntos, para bicúbica 16 puntos, para vecino más cercano 1 punto.\n\nY con las imágenes obtenidas pivotando la cámara sobre un eje que pasa por su centro óptico, se pueden hacer mosaicos cilíndricos y planos, dependerá de cómo proyectas las imágenes. No se puede hacer una vista ortográfica (necesitamos un traveling o ser artistas del photoshop).\n\nLos sólidos platónicos ... 5 (tetraedro, cubo, octaedro, dodecaedro e icosaedro).\n\nVamos a por algunas más."
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2022-03-22T07:17:26",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En un proceso de puesta en correspondencia de parejas de puntos entre dos imágenes tenemos muchas correspondencias erróneas y algunas correctas. Cuál de estos algoritmos usaremos para mejorar la puesta en correspondencia:",
+    "closed": false,
+    "total_voters": 32,
+    "answers": [
+     {
+      "text": "Transformada de Fourier",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Laplaciano del Gaussiano",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Random Sample Consensus",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Filtrado Homomórfico",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2022-03-22T07:18:01",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas transformaciones geométricas generaría resultados válidos en una estrategia input-to-output:",
+    "closed": false,
+    "total_voters": 31,
+    "answers": [
+     {
+      "text": "rotación genérica",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "escalado creciente (escala mayor que uno)",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "traslación entera",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "homografía",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2022-03-22T07:18:37",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "En una imagen tomada con una cámara con una focal de 15 cm, vemos tres caras de un cubo de Rubik. Si queremos convertir cada una de las caras en un cuadrado, qué transformaciones necesitaremos:",
+    "closed": false,
+    "total_voters": 32,
+    "answers": [
+     {
+      "text": "tres homografías",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "una combinación de Rotación, Escalado y Traslación",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "tres combinaciones diferentes de Rotación, Escalado y Traslación",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "una única homografía",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2022-03-22T07:19:19",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "\"La cantidad de entropía del universo tiende a incrementarse en el tiempo\" está ligada al",
+    "closed": false,
+    "total_voters": 29,
+    "answers": [
+     {
+      "text": "Principio cero de la termodinámica",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Primer principio de la termodinámica",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Segundo principio de la termodinámica",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Tercer principio de la termodinámica",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2022-03-23T06:51:52",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": [
+    "Buenos días.\n\nLo comentamos.\n\nEl algoritmo que permite encontrar correspondencias de manera robusta, bien. Es el RANSAC, si habéis fallado echad un vistazo a la Wikipedia ( ",
+    {
+     "type": "link",
+     "text": "https://es.wikipedia.org/wiki/RANSAC"
+    },
+    " ). En el caso de buscar parejas de puntos correspondientes, necesitaremos un modelo matemático y el caso de correspondencias entre puntos de dos planos será el DLT (Direct Linear Transformation), que busca la mejor homografía a partir de como mínimo cuatro puntos.\n\nUna traslación a posiciones enteras solo mueve píxeles completos, como en el lab2. El resto de las opciones necesita recalcular posiciones que o caen en posiciones no enteras o expanden la imagen resultado (generarán huecos en el output si se hace input-to-output). Recordad, la estrategia para resolver una transformación geométrica es siempre output-to-input, aunque hay unas pocas que podamos hacer en las dos direcciones como una traslación entera o una reducción (escalado).\n\nUna homografía es una transformación que lleva las coordenadas de un plano a otro plano (2D -> 2D). Si vemos 3 caras de un cubo tenemos 3 planos implicados, y si lo estamos proyectando sobre el sensor de nuestra cámara necesitamos una homografía diferente para llevar cada una de las 3 caras que vemos sobre el sensor (que no es más que otro plano). \n\nEl desorden, la información, no nos vamos a pelear ... la entropía crece con el tiempo, como postula la segunda ley de la termodinámica.\n\nVenga, las de hoy."
+   ]
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2022-03-23T06:52:29",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Queremos hacer medidas sobre la imagen de una carretera plana y recta. Hemos determinado el punto de fuga. Qué transformación usaremos.",
+    "closed": false,
+    "total_voters": 27,
+    "answers": [
+     {
+      "text": "Una homografía: matriz 2×2",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Una homografía: matriz 3×3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Una homografía: matriz 4×4",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Una transformación basada en polinomios de segundo grado: matriz 6×6",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2022-03-23T06:53:27",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estas transformaciones es una transformación geométrica de la imagen f.",
+    "closed": false,
+    "total_voters": 27,
+    "answers": [
+     {
+      "text": "g(x,y) =f(x,y)²",
+      "voters": 3,
+      "chosen": false
+     },
+     {
+      "text": "g(x,y) =a·f(x,y)+b·h(x,y)+c",
+      "voters": 7,
+      "chosen": false
+     },
+     {
+      "text": "g(x,y) =h(f(x,y))",
+      "voters": 8,
+      "chosen": true
+     },
+     {
+      "text": "g(x,y) =f(a·x+b·y,c·x+d·y)",
+      "voters": 9,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2022-03-23T06:53:53",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Queremos hacer un ajuste con puntos de control con un polinomio de grado 2. Cuántos puntos necesitaremos elegir en una de las imágenes como mínimo.",
+    "closed": false,
+    "total_voters": 30,
+    "answers": [
+     {
+      "text": "1",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "6",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "9",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2022-03-23T06:54:49",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Qué es o quién es Regina Phalange",
+    "closed": false,
+    "total_voters": 28,
+    "answers": [
+     {
+      "text": "el tercer hueso del dedo corazón empezando por la punta del dedo",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "es una matemática famosa por sus trabajos en la resolución parcial de la conjetura de Poincaré",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "es una vedette famosa del Paralelo de Barcelona de los años 20",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "es un personaje ficticio, un alter ego, de uno de los personajes de Friends",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2022-03-24T06:51:50",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\nCasi bien, vamos a explicar esto de los puntos de ajuste para un polinomio, a ver si aporto algo de luz.\n\nLas homografías 3×3. Para trabajar con unas coordenadas 2d debemos subir a una dimensión extra, añadiendo la coordenada homogénea.\n\nLa transformación geométrica altera el valor de las coordenadas x e y. No cambia el valor de la señal, sino que vamos a buscar los valores a sitios diferentes (transformados).\n\nPara el ajuste de una transformación no lineal con un polinomio de segundo grado necesitamos como mínimo 6 puntos, 6 parejas de correspondencias (k,l)<->(i,j). Tened en cuenta que buscaremos los coeficientes de dos polinomios que nos darán los valores (k,l) a partir de los valores (i,j) (k=q1+q2·i+q3·j+q4·i²+q5·j²+q6·i·j, l=r1+r2·i+r3·j+r4·i²+r5·j²+r6·i·j, que podemos poner en modo matricial como K=MQ, L=MR) por tanto la matriz M necesita ser, por lo menos, de 6×6, y esto se consigue con 6 parejas de puntos.\n\nY Regina Phalange es el nombre que suelta Phoebe, de Friends, cada vez que necesita inventarse un nombre. Muy bien.\n\nLas de hoy."
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2022-03-24T06:52:53",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuantas parejas de puntos necesitamos como mínimo para eliminar la deformación de un rectángulo genérico visto en perspectiva.",
+    "closed": false,
+    "total_voters": 30,
+    "answers": [
+     {
+      "text": "1",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "2",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "4",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2022-03-24T06:53:26",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Queremos hacer una transformación geométrica global basada en un polinomio de tercer orden. Cuántas parejas de puntos deberemos elegir por lo menos.",
+    "closed": false,
+    "total_voters": 30,
+    "answers": [
+     {
+      "text": "3",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "6",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "10",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "15",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2022-03-24T06:54:27",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál de estos objetivos no lo atacaremos con una transformación geométrica.",
+    "closed": false,
+    "total_voters": 29,
+    "answers": [
+     {
+      "text": "Poner en correspondencia puntos de dos imágenes para compararlas.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Ver una determinada zona plana de una imagen desde otro punto de vista.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Ajustar el histograma entre dos imágenes para que sean similares.",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Corregir la distorsión de barril generada por el sistema óptico.",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2022-03-24T06:55:34",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "Cuál es la estrella más brillante, vista desde la tierra, después del Sol.",
+    "closed": false,
+    "total_voters": 29,
+    "answers": [
+     {
+      "text": "Betelgeuse",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Vega",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Arturo",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Sirio",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2022-03-25T08:13:02",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "text": "Buenos días.\n\n¡Todas bien! excepto la estrella más cercana.\n\nPara obtener la deformación de un rectángulo visto en perspectiva necesitamos encontrar la Homografía que pasa de uno a otro. Para ello necesitamos 4 \"matchings\". Para un caso no tan bestia, donde no se rompen los paralelismos como sería una afinidad se requieren 3 emparejamientos. Para una rotación y para un escalado en el que no haya un origen determinado, incluirían una traslación implícita, se requieren dos. Para una traslación pura, solo requerimos uno.\n\nPara buscar los coeficientes de un polinomio de tercer orden necesitamos 10 correspondencias: q1+q2·i+q3·j+q4·i²+q5·j²+q6·i·j+q7·i³+q8·j³+q9·i²·j+q10·i·j². Los pormenores los explico en una entrada anterior para uno de orden 2.\n\nLa transformación geométrica ok, no cambian los valores de los píxeles, solo las coordenadas. Nada de alterar histogramas.\n\nY la estrella que más brilla por la noche es Sirio. Hoy, cuando se ponga el sol si podéis mirar por la ventana hacia el sur, Sirio os esperará un rato antes de ocultarse por el sudoeste. \n\nEsta semana relajamos todo esto, hasta que retomemos el segundo bloque. Solo una pregunta para hacerme una idea de si todo esto merece la pena."
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2022-03-25T08:16:21",
+   "from": "UAB-VC/PSIV",
+   "from_id": "channel1502367727",
+   "poll": {
+    "question": "¿Os parece interesante volver con estos cuestionarios rápidos en el segundo bloque? Contestad a todas las opciones que encontréis interesantes (multirrespuesta) para tener realimentación. Muchas gracias por colaborar.",
+    "closed": false,
+    "total_voters": 37,
+    "answers": [
+     {
+      "text": "sí",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "no, ya estoy harto",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "sigue con las preguntas chorras",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "quita las preguntas chorras",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "ha sido positivo para seguir la asignatura",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "ni positivo ni negativo",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "ha sido negativo, me quita un tiempo que no tengo",
+      "voters": 0,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  }
+ ]
+}
